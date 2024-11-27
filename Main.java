@@ -9,8 +9,9 @@ public class Main {
             return count;
         };
 
-
         System.out.println(sum1.sum(Integer.parseInt(args[0]),Integer.parseInt(args[1])));
+
+        //Pranavi and Rakshana;
 
     }
 }
